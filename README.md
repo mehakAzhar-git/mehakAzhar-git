@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @mehakAzhar-git
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Coding
-- 💞️ I’m student of Software Engineering
-- 📫 
-- ⚡ 
+Hi, I'm Mehak Azhar 👋
 
-<!---
-mehakAzhar-git/mehakAzhar-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BS Software Engineering Student
+💻 Software Development & AI Enthusiast
+🚀 Python Intern at CodeAlpha
+
+🛠️ Skills
+
+- Python
+- C++
+- C#
+- HTML & CSS
+- SQL
+- Machine Learning
+- Object-Oriented Programming
+
+💼 Internship
+
+Python Intern — CodeAlpha
+
+Currently working on Python programming tasks and projects as part of my internship.
+
+🚀 Projects
+
+- 🩸 Blood Bank Management System — C# & SQL
+- ❤️ Heart Disease Prediction — Machine Learning
+- 🤖 Jarvis AI Voice Assistant — Python
+- 🌐 Skinfinity Website — HTML & CSS
+- 🎯 Online Event Registration System
+
+📚 Currently Learning
+
+- Python Development
+- Data Structures & Algorithms
+- Machine Learning
+- Software Engineering
+
+🔗 Connect With Me
+
+💼 LinkedIn: "Mehak Azhar" (https://linkedin.com/in/mehak-azhar)
+
+⭐ Thanks for visiting my profile!
